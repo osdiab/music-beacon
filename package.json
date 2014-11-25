@@ -40,6 +40,7 @@
   },
   "dependencies": {
     "coffee-script": "^1.8.0",
+    "director": "^1.2.3",
     "pubnub": "^3.7.0",
     "underscore": "^1.7.0"
   }
