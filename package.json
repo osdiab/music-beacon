@@ -1,0 +1,24 @@
+{
+  "name": "music-beacon",
+  "version": "0.0.0",
+  "description": "Synchronized, distributed music playback in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osdiab/music-beacon.git"
+  },
+  "keywords": [
+    "music",
+    "p2p",
+    "distributed",
+    "synchronization"
+  ],
+  "author": "Omar Diab",
+  "bugs": {
+    "url": "https://github.com/osdiab/music-beacon/issues"
+  },
+  "homepage": "https://github.com/osdiab/music-beacon"
+}
